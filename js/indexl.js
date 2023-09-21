@@ -94,7 +94,7 @@ S.UI = (function () {
       currentAction,
       resizeTimer,
       time,
-      maxShapeSize = 30,
+      maxShapeSize = 13,
       firstAction = true,
       sequence = [],
       cmd = '#';
